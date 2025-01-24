@@ -1,0 +1,7 @@
+q1: 2009
+q2.1: techniquement 0 (tous des blanks) mais réalistiquement 5 avec un mot comme START
+q2.2: 21 avec par exemple ZAPPY
+
+q3: 
+
+q5: 
